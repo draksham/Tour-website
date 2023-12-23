@@ -33,7 +33,7 @@ The project enhances the user's experience by providing a dynamic and interactiv
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sargunkohli152/Tour-Plan.git
+   git clone https://https://github.com/draksham/Tour-website
 
 2. Install dependencies
 
